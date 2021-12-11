@@ -5,6 +5,7 @@
 ## Getting-Started
 
 * [Start With CDN](getting-started/start-with-cdn.md)
+* [Start With HERCS+](getting-started/start-with-hercs+.md)
 
 ***
 
