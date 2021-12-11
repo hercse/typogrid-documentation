@@ -10,3 +10,5 @@
 
 * [Components](components/README.md)
   * [Carousel](components/carousel.md)
+  * [選單](components/xuan-dan.md)
+  * [滑鼠](components/hua-shu.md)

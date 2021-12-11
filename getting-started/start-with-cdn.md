@@ -24,7 +24,6 @@ You know the usage, here's without further ado.
 <script type="module">
     import {typogrid} from 'https://hercs.art/cdn/typogrid.js';
     typogrid();
-
 </script>
 ```
 
