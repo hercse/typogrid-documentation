@@ -1,3 +1,15 @@
 # Table of contents
 
-* [Page 1](README.md)
+* [Introduction](README.md)
+
+## Getting-Started
+
+* [CDN](getting-started/cdn.md)
+
+## Components
+
+* [Start](components/start.md)
+
+***
+
+* [Carousel](carousel.md)
