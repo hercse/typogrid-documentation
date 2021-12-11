@@ -6,10 +6,7 @@
 
 * [Start With CDN](getting-started/start-with-cdn.md)
 
-## Components
-
-* [Start](components/start.md)
-
 ***
 
-* [Carousel](carousel.md)
+* [Components](components/README.md)
+  * [Carousel](components/carousel.md)
