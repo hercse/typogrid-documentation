@@ -1,6 +1,10 @@
-# Carousel
+---
+description: >-
+  The current slideshow allows you to display the font design content more
+  conveniently.
+---
 
-The current slideshow allows you to display the font design content more conveniently.
+# Carousel
 
 ```
 <div class="carousel h-50vh ml:h-75vh">
