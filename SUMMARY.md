@@ -4,7 +4,7 @@
 
 ## Getting-Started
 
-* [CDN](getting-started/cdn.md)
+* [Start With CDN](getting-started/start-with-cdn.md)
 
 ## Components
 
