@@ -10,7 +10,7 @@
 ***
 
 * [Components](components/README.md)
-  * [Carousel](components/carousel.md)
+  * [Carousel \[Disable\]](components/carousel-disable.md)
   * [選單](components/xuan-dan.md)
   * [滑鼠](components/hua-shu.md)
 * [Settings](settings/README.md)
